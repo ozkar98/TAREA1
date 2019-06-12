@@ -1,0 +1,23 @@
+{
+  "name": "codenetwork",
+  "description": "Web Page",
+  "main": "index.html",
+  "authors": [
+    "Alcazar"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^4.3.1",
+    "jquery": "^3.4.1",
+    "fontawesome": "^5.8.2",
+    "hammerjs": "^2.0.8"
+  }
+}
